@@ -1,5 +1,12 @@
-This is a repository to store some of my previous work in data manipulation/data anlaysis
+## Repository Overview
 
-The description of the purpose of each of the folder is below:
+This repository contains examples of my previous work in data manipulation and data analysis.
 
-Automating data manipulation eg1 - This is simply showing how we can manipulate 1 .csv and loop over a folder full of .csv with the same data structure.
+### Folder Descriptions
+
+#### Automating Data Manipulation Example 1
+This folder demonstrates how to:
+- Manipulate a single CSV file.
+- Loop over a folder full of CSV files with the same data structure.
+
+We process our data in the `/Before` folder and then export the modified files, named "_done.csv", into the `/Before/test` folder. The script used is `Automating_Data_manipulation.r`. Please update the path to your working directory using `getwd()`.
