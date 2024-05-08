@@ -2,7 +2,7 @@ library(readr)
 library(dplyr)
 library(tidyr)
 
-path <- "G:/My Drive/Back-up from RSM_ARUP/Arup docx/ENG - IWG - code script/manipulation/Before"
+path <- "C:\Users\choiy\Documents\GitHub\miscellaneous\Automating data manipulation eg1"
 setwd(path)
 # List all CSV files
 csv_files <- list.files(pattern = "\\.csv$")
