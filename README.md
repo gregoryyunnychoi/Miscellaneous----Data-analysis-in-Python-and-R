@@ -1,6 +1,6 @@
 ## Repository Overview
 
-This repository contains examples of my previous work in data manipulation and data analysis in Python and R.
+This repository contains the re-creation of the examples of my previous work in data manipulation and data analysis in Python and R using public data.
 
 ### Folder Descriptions
 
